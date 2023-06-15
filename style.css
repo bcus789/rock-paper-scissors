@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1 {
+    text-align: center;
+}
+.player-img{
+    height: 200px;
+}
+#images{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#score{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
